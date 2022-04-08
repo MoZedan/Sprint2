@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # # Task 1 ( Basics )
 
@@ -193,71 +192,10 @@ al.append(str(x))
 print (','.join(nl))
 
 
-# In[ ]:
 
 
 
 
-
-# In[ ]:
-
-
-
-
-
-# # Question 10 :
-# Write a program which can compute the factorial of a given numbers.
-# The results should be printed in a comma-separated sequence on a single line.
-# Suppose the following input is supplied to the program:
-# 8
-# Then, the output should be:
-# 40320
-# 
-# Hints:
-# In case of input data being supplied to the question, it should be assumed to be a console input.
-
-# In[10]:
-
-
-#Search about it please
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# # Question 11 :
-# Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a.
-# Suppose the following input is supplied to the program:
-# 9
-# Then, the output should be:
-# 11106
-# 
-# Hints:
-# In case of input data being supplied to the question, it should be assumed to be a console input.
-# 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
